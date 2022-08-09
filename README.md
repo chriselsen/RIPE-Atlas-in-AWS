@@ -15,9 +15,11 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 
 | RIPE Atlas ID | ASN v4 | ASN v6 | Country	| Region Name | Region ID |
 | --- | --- | --- | --- | --- | --- |
-| [1003386](https://atlas.ripe.net/probes/1003386/) |	16509 | 16509 | <img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-svg/us.svg" width="25px"> USA | US East (Ohio) | us-east-2 |
 | [1003385](https://atlas.ripe.net/probes/1003385/) |	16509 | 16509 | <img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-svg/us.svg" width="25px"> USA | US East (N. Virginia) | us-east-1 |
+| [1003386](https://atlas.ripe.net/probes/1003386/) |	16509 | 16509 | <img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-svg/us.svg" width="25px"> USA | US East (Ohio) | us-east-2 |
 | [1003387](https://atlas.ripe.net/probes/1003387/) |	16509 | 16509 | <img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-svg/us.svg" width="25px"> USA | US West (N. California) | us-west-1 |
 | [1003388](https://atlas.ripe.net/probes/1003388/) |	16509 | 16509 | <img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-svg/us.svg" width="25px"> USA | US West (Oregon) | us-west-2 |
 | [1000707](https://atlas.ripe.net/probes/1000707/) |	16509 | 16509 | <img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-svg/za.svg" width="25px"> South Africa | Africa (Cape Town) | af-south-1 |
+| [1003372](https://atlas.ripe.net/probes/1003372/) |	16509 | 16509 | <img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-svg/hk.svg" width="25px"> Hong Kong | Asia Pacific (Hong Kong) | ap-east-1 |
+| [1003371](https://atlas.ripe.net/probes/1003371/) |	16509 | 16509 | <img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-svg/id.svg" width="25px"> Indonesia | Asia Pacific (Jakarta) | ap-southeast-3	|
 | [1000708](https://atlas.ripe.net/probes/1000708/) |	16509 | 16509 | <img src="https://raw.githubusercontent.com/csmoore/country-flag-icons/master/country-flags-4x3-svg/bh.svg" width="25px"> Bahrain | Middle East (Bahrain) | me-south-1 |
