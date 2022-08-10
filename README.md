@@ -20,7 +20,7 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 | [1003387](https://atlas.ripe.net/probes/1003387/) |	16509 | 16509 | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | US West (N. California) | us-west-1 |
 | [1003388](https://atlas.ripe.net/probes/1003388/) |	16509 | 16509 | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | US West (Oregon) | us-west-2 |
 | [1003389](https://atlas.ripe.net/probes/1003389/) |	16509 | 16509 | <img src="../../raw/main/images/flags/ca.svg" width="25px"> Canada | Canada (Central) | ca-central-1 |
-| [1000709](https://atlas.ripe.net/probes/1000709/) |	16509 | 16509 | <img src="../../raw/main/images/flags/ca.svg" width="25px"> Canada | South America (São Paulo) | sa-east-1 |
+| [1000709](https://atlas.ripe.net/probes/1000709/) |	16509 | 16509 | <img src="../../raw/main/images/flags/br.svg" width="25px"> Brazil | South America (São Paulo) | sa-east-1 |
 | [1000566](https://atlas.ripe.net/probes/1000566/) |	16509 | 16509 | <img src="../../raw/main/images/flags/de.svg" width="25px"> Germany | Europe (Frankfurt) | eu-central-1 |
 | [1003374](https://atlas.ripe.net/probes/1003374/) |	16509 | 16509 | <img src="../../raw/main/images/flags/se.svg" width="25px"> Sweden | Europe (Stockholm) | eu-north-1 |
 | [1003376](https://atlas.ripe.net/probes/1003376/) |	16509 | 16509 | <img src="../../raw/main/images/flags/it.svg" width="25px"> Italy | Europe (Milan) | eu-south-1 |
@@ -39,6 +39,14 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 | [1003371](https://atlas.ripe.net/probes/1003371/) |	16509 | 16509 | <img src="../../raw/main/images/flags/id.svg" width="25px"> Indonesia | Asia Pacific (Jakarta) | ap-southeast-3	|
 | [1000705](https://atlas.ripe.net/probes/1000705/) |	55960 | 55960 | <img src="../../raw/main/images/flags/cn.svg" width="25px"> China | China (Beijing) | cn-north-1	|
 | [1000706](https://atlas.ripe.net/probes/1000706/) |	135629 | 135629 | <img src="../../raw/main/images/flags/cn.svg" width="25px"> China | China (Ningxia) | cn-northwest-1|
+
+#### Comma-separated list of IDs
+For use in Probe Selection via "IDs List", when [creating a custom measurement](https://atlas.ripe.net/measurements/form/).
+
+```
+1003385,1003386,1003387,1003388,1003389,1000709,1000566,1003374,1003376,1003378,1003377,1003375,1000708,1000707,1003372,1003384,1003381,1003380,1003379,1003382,1003383,1003371,1000705,1000706
+```
+
 
 ### AWS Local Zones
 
@@ -62,3 +70,8 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 | N/A |	N/A | N/A | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Phoenix | us-west-2-phx-1a |
 | N/A |	N/A | N/A | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Portland | us-west-2-pdx-1a |
 | N/A |	N/A | N/A | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Seattle | us-west-2-sea-1a |
+
+## Sample measurements
+
+* [IPv4 to a.root-servers.net from all AWS regions](https://atlas.ripe.net/measurements/43594553/)
+* [IPv6 to a.root-servers.net from all AWS regions](https://atlas.ripe.net/measurements/43594554/)
