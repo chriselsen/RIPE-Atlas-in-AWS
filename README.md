@@ -77,3 +77,8 @@ For use in Probe Selection via "IDs List", when [creating a custom measurement](
 * [IPv6 to a.root-servers.net from all AWS regions](https://atlas.ripe.net/measurements/43594554/)
 * [IPv4 to f.root-servers.net from all AWS regions](https://atlas.ripe.net/measurements/43594794/)
 * [IPv6 to f.root-servers.net from all AWS regions](https://atlas.ripe.net/measurements/43594795/)
+
+## Sample map output
+
+Sample map output for the above measurement [IPv4 to a.root-servers.net from all AWS regions](https://atlas.ripe.net/measurements/43594553/).
+<img src="../../raw/main/images/Map_IPv4_A-Root.png">
