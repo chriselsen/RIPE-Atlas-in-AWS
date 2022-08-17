@@ -63,10 +63,10 @@ For use in Probe Selection via "IDs List", when [creating a custom measurement](
 | N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Las Vegas | us-west-2-las-1a |
 | N/A |	16509 | 16509 | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Los Angeles | us-west-2-lax-1a |
 | N/A |	16509 | 16509 | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Los Angeles | us-west-2-lax-1b |
-| [1004610](https://atlas.ripe.net/probes/1004606/) |	16510 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Miami | us-east-1-mia-1a |
-| [1004611](https://atlas.ripe.net/probes/1004606/) |	16511 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Minneapolis | us-east-1-msp-1a |
-| N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | New York City (located in New Jersey) | us-east-1-nyc-1a |
-| N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Philadelphia | us-east-1-phl-1a |
+| [1004610](https://atlas.ripe.net/probes/1004610/) |	16510 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Miami | us-east-1-mia-1a |
+| [1004611](https://atlas.ripe.net/probes/1004611/) |	16511 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Minneapolis | us-east-1-msp-1a |
+| [1004612](https://atlas.ripe.net/probes/1004612/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | New York City (located in New Jersey) | us-east-1-nyc-1a |
+| [1004613](https://atlas.ripe.net/probes/1004613/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Philadelphia | us-east-1-phl-1a |
 | N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Phoenix | us-west-2-phx-1a |
 | N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Portland | us-west-2-pdx-1a |
 | N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Seattle | us-west-2-sea-1a |
