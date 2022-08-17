@@ -11,4 +11,5 @@ sudo ./ripe-atlas-software-probe/build-config/debian/bin/make-deb
 sudo dpkg -i atlasswprobe-*.deb
 echo RXTXRPT=yes | sudo tee -a /var/atlas-probe/state/config.txt
 sudo service atlas restart
+sudo apt autoremove -y
 cat /var/atlas-probe/etc/probe_key.pub
