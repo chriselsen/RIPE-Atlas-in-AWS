@@ -2,6 +2,7 @@
 
 sudo apt update -y
 export DEBIAN_FRONTEND=noninteractive
+sudo apt -y remove needrestart 
 sudo -E apt-get -o Dpkg::Options::="--force-confold" -o Dpkg::Options::="--force-confdef" dist-upgrade -q -y --allow-downgrades --allow-remove-essential --allow-change-held-packages
 sudo apt install git tar fakeroot libssl-dev libcap2-bin autoconf automake libtool build-essential -y --allow-downgrades --allow-remove-essential --allow-change-held-packages
 cd /tmp
