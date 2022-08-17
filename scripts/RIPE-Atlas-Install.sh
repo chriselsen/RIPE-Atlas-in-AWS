@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export DEBIAN_FRONTEND=noninteractive
+sudo export DEBIAN_FRONTEND=noninteractive
 sudo apt-get update && 
     sudo apt-get -o Dpkg::Options::="--force-confnew" upgrade -q -y --force-yes &&
     sudo apt-get -o Dpkg::Options::="--force-confnew" dist-upgrade -q -y --force-yes
