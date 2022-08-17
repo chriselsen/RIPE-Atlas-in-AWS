@@ -51,20 +51,20 @@ For use in Probe Selection via "IDs List", when [creating a custom measurement](
 ### AWS Local Zones
 
 
-| RIPE Atlas ID | ASN v4 | ASN v6 | Country	| Loczl Zone Name | Zone ID |
+| RIPE Atlas ID | ASN v4 | ASN v6 | Country	| Local Zone Name | Zone ID |
 | --- | --- | --- | --- | --- | --- |
 | [1004598](https://atlas.ripe.net/probes/1004598/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Atlanta | us-east-1-atl-1a |
 | [1004605](https://atlas.ripe.net/probes/1004605/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Boston | us-east-1-bos-1a |
 | [1004606](https://atlas.ripe.net/probes/1004606/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Chicago | us-east-1-chi-1a |
-| N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Dallas | us-east-1-dfw-1a |
+| [1004607](https://atlas.ripe.net/probes/1004607/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Dallas | us-east-1-dfw-1a |
 | N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Denver | us-west-2-den-1a |
-| N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Houston | us-east-1-iah-1a |
-| N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Kansas City | us-east-1-mci-1a |
+| [1004608](https://atlas.ripe.net/probes/1004608/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Houston | us-east-1-iah-1a |
+| [1004609](https://atlas.ripe.net/probes/1004609/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Kansas City | us-east-1-mci-1a |
 | N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Las Vegas | us-west-2-las-1a |
 | N/A |	16509 | 16509 | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Los Angeles | us-west-2-lax-1a |
 | N/A |	16509 | 16509 | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Los Angeles | us-west-2-lax-1b |
-| N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Miami | us-east-1-mia-1a |
-| N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Minneapolis | us-east-1-msp-1a |
+| [1004610](https://atlas.ripe.net/probes/1004606/) |	16510 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Miami | us-east-1-mia-1a |
+| [1004611](https://atlas.ripe.net/probes/1004606/) |	16511 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Minneapolis | us-east-1-msp-1a |
 | N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | New York City (located in New Jersey) | us-east-1-nyc-1a |
 | N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Philadelphia | us-east-1-phl-1a |
 | N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Phoenix | us-west-2-phx-1a |
