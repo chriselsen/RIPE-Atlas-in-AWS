@@ -55,7 +55,7 @@ For use in Probe Selection via "IDs List", when [creating a custom measurement](
 | --- | --- | --- | --- | --- | --- |
 | [1004598](https://atlas.ripe.net/probes/1004598/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Atlanta | us-east-1-atl-1a |
 | [1004605](https://atlas.ripe.net/probes/1004605/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Boston | us-east-1-bos-1a |
-| N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Chicago | us-east-1-chi-1a |
+| [1004606](https://atlas.ripe.net/probes/1004606/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Chicago | us-east-1-chi-1a |
 | N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Dallas | us-east-1-dfw-1a |
 | N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Denver | us-west-2-den-1a |
 | N/A |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Houston | us-east-1-iah-1a |
