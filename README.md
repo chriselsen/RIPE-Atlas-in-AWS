@@ -94,3 +94,7 @@ Sample map output for the above measurement [IPv4 to a.root-servers.net from all
 
 Sample map output for the above measurement [IPv4 to f.root-servers.net from all AWS LocalZones](https://atlas.ripe.net/measurements/43940924/).
 <img src="../../raw/main/images/Map_IPv4_F-Root_LocalZones.png">
+
+## Disclaimer
+
+This is **not** an official AWS offering. Any data gathered is for informational purposes only and is **not** a guarantee of future performance!
