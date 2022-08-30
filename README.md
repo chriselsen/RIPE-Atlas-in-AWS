@@ -28,7 +28,7 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 | [1003377](https://atlas.ripe.net/probes/1003377/) |	16509 | 16509 | <img src="../../raw/main/images/flags/gb.svg" width="25px"> United Kingdom | Europe (London) | eu-west-2 |
 | [1003375](https://atlas.ripe.net/probes/1003375/) |	16509 | 16509 | <img src="../../raw/main/images/flags/fr.svg" width="25px"> France | Europe (Paris) | eu-west-3 |
 | [1000708](https://atlas.ripe.net/probes/1000708/) |	16509 | 16509 | <img src="../../raw/main/images/flags/bh.svg" width="25px"> Bahrain | Middle East (Bahrain) | me-south-1 |
-|  |	16509 | 16509 | <img src="../../raw/main/images/flags/ae.svg" width="25px"> UAE | Middle East (UAE) | me-central-1 |
+| [1004673](https://atlas.ripe.net/probes/1004673/) |	16509 | 16509 | <img src="../../raw/main/images/flags/ae.svg" width="25px"> UAE | Middle East (UAE) | me-central-1 |
 | [1000707](https://atlas.ripe.net/probes/1000707/) |	16509 | 16509 | <img src="../../raw/main/images/flags/za.svg" width="25px"> South Africa | Africa (Cape Town) | af-south-1 |
 | [1003372](https://atlas.ripe.net/probes/1003372/) |	16509 | 16509 | <img src="../../raw/main/images/flags/hk.svg" width="25px"> Hong Kong | Asia Pacific (Hong Kong) | ap-east-1 |
 | [1003384](https://atlas.ripe.net/probes/1003384/) |	16509 | 16509 | <img src="../../raw/main/images/flags/jp.svg" width="25px"> Japan | Asia Pacific (Tokyo) | ap-northeast-1	|
@@ -45,7 +45,7 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 For use in Probe Selection via "IDs List", when [creating a custom measurement](https://atlas.ripe.net/measurements/form/).
 
 ```
-1003385,1003386,1003387,1003388,1003389,1000709,1000566,1003374,1003376,1003378,1003377,1003375,1000708,1000707,1003372,1003384,1003381,1003380,1003379,1003382,1003383,1003371,1000705,1000706
+1003385,1003386,1003387,1003388,1003389,1000709,1000566,1003374,1003376,1003378,1003377,1003375,1000708,1004673,1000707,1003372,1003384,1003381,1003380,1003379,1003382,1003383,1003371,1000705,1000706
 ```
 
 
