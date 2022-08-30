@@ -86,7 +86,7 @@ For use in Probe Selection via "IDs List", when [creating a custom measurement](
 * [IPv4 to f.root-servers.net from all AWS regions](https://atlas.ripe.net/measurements/43594794/)
 * [IPv6 to f.root-servers.net from all AWS regions](https://atlas.ripe.net/measurements/43594795/)
 * [IPv4 to f.root-servers.net from all AWS LocalZones](https://atlas.ripe.net/measurements/43940924/)
-* [IPv6 to f.root-servers.net from all AWS LocalZones](https://atlas.ripe.net/measurements/43940925/)
+* [IPv6 to f.root-servers.net from all AWS LocalZones](https://atlas.ripe.net/measurements/44236841/)
 
 ## Sample map output
 
