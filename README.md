@@ -28,6 +28,7 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 | [1003377](https://atlas.ripe.net/probes/1003377/) |	16509 | 16509 | <img src="../../raw/main/images/flags/gb.svg" width="25px"> United Kingdom | Europe (London) | eu-west-2 |
 | [1003375](https://atlas.ripe.net/probes/1003375/) |	16509 | 16509 | <img src="../../raw/main/images/flags/fr.svg" width="25px"> France | Europe (Paris) | eu-west-3 |
 | [1000708](https://atlas.ripe.net/probes/1000708/) |	16509 | 16509 | <img src="../../raw/main/images/flags/bh.svg" width="25px"> Bahrain | Middle East (Bahrain) | me-south-1 |
+|  |	16509 | 16509 | <img src="../../raw/main/images/flags/ua.svg" width="25px"> UAE | Middle East (UAE) | me-central-1 |
 | [1000707](https://atlas.ripe.net/probes/1000707/) |	16509 | 16509 | <img src="../../raw/main/images/flags/za.svg" width="25px"> South Africa | Africa (Cape Town) | af-south-1 |
 | [1003372](https://atlas.ripe.net/probes/1003372/) |	16509 | 16509 | <img src="../../raw/main/images/flags/hk.svg" width="25px"> Hong Kong | Asia Pacific (Hong Kong) | ap-east-1 |
 | [1003384](https://atlas.ripe.net/probes/1003384/) |	16509 | 16509 | <img src="../../raw/main/images/flags/jp.svg" width="25px"> Japan | Asia Pacific (Tokyo) | ap-northeast-1	|
