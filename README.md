@@ -27,6 +27,7 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 | [1003378](https://atlas.ripe.net/probes/1003378/) |	16509 | 16509 | <img src="../../raw/main/images/flags/ie.svg" width="25px"> Ireland | Europe (Ireland) | eu-west-1 |
 | [1003377](https://atlas.ripe.net/probes/1003377/) |	16509 | 16509 | <img src="../../raw/main/images/flags/gb.svg" width="25px"> United Kingdom | Europe (London) | eu-west-2 |
 | [1003375](https://atlas.ripe.net/probes/1003375/) |	16509 | 16509 | <img src="../../raw/main/images/flags/fr.svg" width="25px"> France | Europe (Paris) | eu-west-3 |
+| [1004991](https://atlas.ripe.net/probes/1004991/) |	16509 | 16509 | <img src="../../raw/main/images/flags/es.svg" width="25px"> Spain | Europe (Spain) | eu-south-2 |
 | [1004986](https://atlas.ripe.net/probes/1004986/) |	16509 | 16509 | <img src="../../raw/main/images/flags/ch.svg" width="25px"> Switzerland | Europe (Zurich) | eu-central-2 |
 | [1000708](https://atlas.ripe.net/probes/1000708/) |	16509 | 16509 | <img src="../../raw/main/images/flags/bh.svg" width="25px"> Bahrain | Middle East (Bahrain) | me-south-1 |
 | [1004673](https://atlas.ripe.net/probes/1004673/) |	16509 | 16509 | <img src="../../raw/main/images/flags/ae.svg" width="25px"> UAE | Middle East (UAE) | me-central-1 |
@@ -46,7 +47,7 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 For use in Probe Selection via "IDs List", when [creating a custom measurement](https://atlas.ripe.net/measurements/form/).
 
 ```
-1003385,1003386,1003387,1003388,1003389,1000709,1000566,1003374,1003376,1003378,1003377,1003375,1004986,1000708,1004673,1000707,1003372,1003384,1003381,1003380,1003379,1003382,1003383,1003371,1000705,1000706
+1003385,1003386,1003387,1003388,1003389,1000709,1000566,1003374,1003376,1003378,1003377,1003375,1004991,1004986,1000708,1004673,1000707,1003372,1003384,1003381,1003380,1003379,1003382,1003383,1003371,1000705,1000706
 ```
 
 
