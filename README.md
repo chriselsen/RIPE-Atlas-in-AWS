@@ -73,6 +73,8 @@ For use in Probe Selection via "IDs List", when [creating a custom measurement](
 | [1004616](https://atlas.ripe.net/probes/1004616/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Phoenix | us-west-2-phx-1a |
 | [1004617](https://atlas.ripe.net/probes/1004617/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Portland | us-west-2-pdx-1a |
 | [1004618](https://atlas.ripe.net/probes/1004618/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Seattle | us-west-2-sea-1a |
+| [1005004](https://atlas.ripe.net/probes/1005004/) |	16509 | - | <img src="../../raw/main/images/flags/de.svg" width="25px"> Germany | Hamburg | eu-central-1-ham-1a |
+| [1005005](https://atlas.ripe.net/probes/1005005/) |	16509 | - | <img src="../../raw/main/images/flags/pl.svg" width="25px"> Poland | Warsaw | eu-central-1-waw-1a |
 | [1000640](https://atlas.ripe.net/probes/1000640/) |	16509 | - | <img src="../../raw/main/images/flags/tw.svg" width="25px"> Taiwan | Taipei | ap-northeast-1-tpe-1a |
 | [1000644](https://atlas.ripe.net/probes/1000644/) |	16509 | - | <img src="../../raw/main/images/flags/in.svg" width="25px"> India | Delhi | ap-south-1-del-1a |
 
@@ -81,7 +83,7 @@ For use in Probe Selection via "IDs List", when [creating a custom measurement](
 For use in Probe Selection via "IDs List", when [creating a custom measurement](https://atlas.ripe.net/measurements/form/).
 
 ```
-1004598,1004605,1004606,1004607,1004614,1004608,1004609,1004615,1004619,1004620,1004610,1004611,1004612,1004613,1004616,1004617,1004618,1000640,1000644
+1004598,1004605,1004606,1004607,1004614,1004608,1004609,1004615,1004619,1004620,1004610,1004611,1004612,1004613,1004616,1004617,1004618,1005004,1005005,1000640,1000644
 ```
 
 ## Sample measurements
