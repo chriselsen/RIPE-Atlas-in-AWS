@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Tested with Ubuntu 20.04 LTS
 sudo apt update -y
 export DEBIAN_FRONTEND=noninteractive
 sudo apt -y remove needrestart 
