@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Add a list of RIPE Atlas probes to an existing RIPE Atlas measurement
+
 $api_key = "Your_API_KEY"
 mm_id="43940924"
 action="add"
