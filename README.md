@@ -4,7 +4,7 @@
 [RIPE Atlas](https://atlas.ripe.net/landing/about/) is the [RIPE NCC](https://www.ripe.net/)’s main Internet data collection system. It is a global network of devices, called probes and anchors, that actively measure Internet connectivity. Anyone can access this data via Internet traffic maps, streaming data visualisations, and an API. RIPE Atlas users can also perform customised measurements to gain valuable data about their own networks.
 
 ## Why RIPE Atlas probes in AWS?
-Deploying RIPE Atlas probes within AWS [Regions](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/) and [Local Zones](https://aws.amazon.com/about-aws/global-infrastructure/localzones/) allows RIPE Atlas users to create customized measurements originating from within one of these AWS locations. And anyone can use the resulting data to gain insight into the network connectivity of these AWS regions. 
+Deploying RIPE Atlas probes within AWS [Regions](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/) allows RIPE Atlas users to create customized measurements originating from within one of these AWS locations. And anyone can use the resulting data to gain insight into the network connectivity of these AWS regions. 
 
 Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachability.amazonaws.com/) and [IPv6](http://ipv6.ec2-reachability.amazonaws.com/), it is also possible to measure Network connectivity across the AWS backbone. 
 
@@ -53,56 +53,17 @@ For use in Probe Selection via "IDs List", when [creating a custom measurement](
 ```
 
 
-### AWS Local Zones
-
-
-| RIPE Atlas ID | ASN v4 | ASN v6 | Country	| Local Zone Name | Zone ID |
-| --- | --- | --- | --- | --- | --- |
-| [1004598](https://atlas.ripe.net/probes/1004598/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Atlanta | us-east-1-atl-1a |
-| [1004605](https://atlas.ripe.net/probes/1004605/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Boston | us-east-1-bos-1a |
-| [1004606](https://atlas.ripe.net/probes/1004606/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Chicago | us-east-1-chi-1a |
-| [1004607](https://atlas.ripe.net/probes/1004607/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Dallas | us-east-1-dfw-1a |
-| [1004614](https://atlas.ripe.net/probes/1004614/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Denver | us-west-2-den-1a |
-| [1004608](https://atlas.ripe.net/probes/1004608/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Houston | us-east-1-iah-1a |
-| [1004609](https://atlas.ripe.net/probes/1004609/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Kansas City | us-east-1-mci-1a |
-| [1004615](https://atlas.ripe.net/probes/1004615/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Las Vegas | us-west-2-las-1a |
-| [1004619](https://atlas.ripe.net/probes/1004619/) |	16509 | 16509 | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Los Angeles | us-west-2-lax-1a |
-| [1004620](https://atlas.ripe.net/probes/1004620/) |	16509 | 16509 | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Los Angeles | us-west-2-lax-1b |
-| [1004610](https://atlas.ripe.net/probes/1004610/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Miami | us-east-1-mia-1a |
-| [1004611](https://atlas.ripe.net/probes/1004611/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Minneapolis | us-east-1-msp-1a |
-| [1004612](https://atlas.ripe.net/probes/1004612/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | New York City<br>(located in New Jersey) | us-east-1-nyc-1a |
-| [1004613](https://atlas.ripe.net/probes/1004613/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Philadelphia | us-east-1-phl-1a |
-| [1004616](https://atlas.ripe.net/probes/1004616/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Phoenix | us-west-2-phx-1a |
-| [1004617](https://atlas.ripe.net/probes/1004617/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Portland | us-west-2-pdx-1a |
-| [1004618](https://atlas.ripe.net/probes/1004618/) |	16509 | - | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | Seattle | us-west-2-sea-1a |
-| [1005005](https://atlas.ripe.net/probes/1005005/) |	16509 | - | <img src="../../raw/main/images/flags/pl.svg" width="25px"> Poland | Warsaw | eu-central-1-waw-1a |
-| [1000640](https://atlas.ripe.net/probes/1000640/) |	16509 | - | <img src="../../raw/main/images/flags/tw.svg" width="25px"> Taiwan | Taipei | ap-northeast-1-tpe-1a |
-| [1000644](https://atlas.ripe.net/probes/1000644/) |	16509 | - | <img src="../../raw/main/images/flags/in.svg" width="25px"> India | Delhi | ap-south-1-del-1a |
-
-
-#### Comma-separated list of IDs
-For use in Probe Selection via "IDs List", when [creating a custom measurement](https://atlas.ripe.net/measurements/form/).
-
-```
-1004598,1004605,1004606,1004607,1004614,1004608,1004609,1004615,1004619,1004620,1004610,1004611,1004612,1004613,1004616,1004617,1004618,1005005,1000640,1000644
-```
-
 ## Sample measurements
 
 * [IPv4 to a.root-servers.net from all AWS regions](https://atlas.ripe.net/measurements/43594553/)
 * [IPv6 to a.root-servers.net from all AWS regions](https://atlas.ripe.net/measurements/43594554/)
 * [IPv4 to f.root-servers.net from all AWS regions](https://atlas.ripe.net/measurements/43594794/)
 * [IPv6 to f.root-servers.net from all AWS regions](https://atlas.ripe.net/measurements/44236841/)
-* [IPv4 to f.root-servers.net from all AWS LocalZones](https://atlas.ripe.net/measurements/43940924/)
-* [IPv6 to f.root-servers.net from all AWS LocalZones](https://atlas.ripe.net/measurements/44236841/)
 
 ## Sample map output
 
 Sample map output for the above measurement [IPv4 to a.root-servers.net from all AWS regions](https://atlas.ripe.net/measurements/43594553/).
 <img src="../../raw/main/images/Map_IPv4_A-Root.png">
-
-Sample map output for the above measurement [IPv4 to f.root-servers.net from all AWS LocalZones](https://atlas.ripe.net/measurements/43940924/).
-<img src="../../raw/main/images/Map_IPv4_F-Root_LocalZones.png">
 
 ## Disclaimer
 
