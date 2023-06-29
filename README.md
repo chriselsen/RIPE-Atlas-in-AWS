@@ -29,7 +29,7 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 | [1003378](https://atlas.ripe.net/probes/1003378/) |	16509 | 16509 | <img src="../../raw/main/images/flags/ie.svg" width="25px"> Ireland | Europe (Ireland) | eu-west-1 |
 | [1003377](https://atlas.ripe.net/probes/1003377/) |	16509 | 16509 | <img src="../../raw/main/images/flags/gb.svg" width="25px"> United Kingdom | Europe (London) | eu-west-2 |
 | [1003375](https://atlas.ripe.net/probes/1003375/) |	16509 | 16509 | <img src="../../raw/main/images/flags/fr.svg" width="25px"> France | Europe (Paris) | eu-west-3 |
-| [1000644](https://atlas.ripe.net/probes/1000644/) |	16509 | 16509 | <img src="../../raw/main/images/flags/il.svg" width="25px"> Israel | Middle East (Israel) | il-central-1 |
+| [1000644](https://atlas.ripe.net/probes/1000644/) |	16509 | 16509 | <img src="../../raw/main/images/flags/il.svg" width="25px"> Israel | Israel (Tel Aviv) | il-central-1 |
 | [1004673](https://atlas.ripe.net/probes/1004673/) |	16509 | 16509 | <img src="../../raw/main/images/flags/ae.svg" width="25px"> UAE | Middle East (UAE) | me-central-1 |
 | [1000708](https://atlas.ripe.net/probes/1000708/) |	16509 | 16509 | <img src="../../raw/main/images/flags/bh.svg" width="25px"> Bahrain | Middle East (Bahrain) | me-south-1 |
 | [1000707](https://atlas.ripe.net/probes/1000707/) |	16509 | 16509 | <img src="../../raw/main/images/flags/za.svg" width="25px"> South Africa | Africa (Cape Town) | af-south-1 |
