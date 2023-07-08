@@ -10,7 +10,7 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 
 **If you enjoy this work, please consider sponsoring:**
 
-[![Buy Me A Coffee](https://github.com/chriselsen/RIPE-Atlas-in-AWS/assets/5304256/0e9f074a-0d63-4849-bd93-64ea2cd3ddf9)](https://www.buymeacoffee.com/chriselsen)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/chriselsen)
 [![Support via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg)](https://www.paypal.me/christianelsen)
 
 ## Available Probes
