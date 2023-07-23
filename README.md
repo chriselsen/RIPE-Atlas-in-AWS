@@ -51,14 +51,12 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 |  |	16509 | 16509 | <img src="../../raw/main/images/flags/nz.svg" width="25px"> New Zealand | Asia Pacific (Auckland) | ap-southeast-6 |
 | [1003379](https://atlas.ripe.net/probes/1003379/) |	16509 | 16509 | <img src="../../raw/main/images/flags/in.svg" width="25px"> India | Asia Pacific (Mumbai) | ap-south-1	|
 | [1005020](https://atlas.ripe.net/probes/1005020/) |	16509 | 16509 | <img src="../../raw/main/images/flags/in.svg" width="25px"> India | Asia Pacific (Hyderabad) | ap-south-2	|
-| [1000705](https://atlas.ripe.net/probes/1000705/) |	55960 | 55960 | <img src="../../raw/main/images/flags/cn.svg" width="25px"> China | China (Beijing) | cn-north-1	|
-| [1000706](https://atlas.ripe.net/probes/1000706/) |	135629 | 135629 | <img src="../../raw/main/images/flags/cn.svg" width="25px"> China | China (Ningxia) | cn-northwest-1|
 
 #### Comma-separated list of IDs
 For use in Probe Selection via "IDs List", when [creating a custom measurement](https://atlas.ripe.net/measurements/form/).
 
 ```
-1003385,1003386,1003387,1003388,1003389,1000709,1000566,1004986,1003374,1003376,1004991,1003378,1003377,1003375,1000644,1004673,1000708,1000707,1003384,1003381,1003380,1003372,1003382,1003383,1003371,1005004,1003379,1005020,1000705,1000706
+1003385,1003386,1003387,1003388,1003389,1000709,1000566,1004986,1003374,1003376,1004991,1003378,1003377,1003375,1000644,1004673,1000708,1000707,1003384,1003381,1003380,1003372,1003382,1003383,1003371,1005004,1003379,1005020
 ```
 
 
