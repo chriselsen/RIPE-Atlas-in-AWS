@@ -74,6 +74,14 @@ For use in Probe Selection via "IDs List", when [creating a custom measurement](
 Sample map output for the above measurement [IPv4 to a.root-servers.net from all AWS regions](https://atlas.ripe.net/measurements/43594553/).
 <img src="../../raw/main/images/Map_IPv4_A-Root.png">
 
+## Other usage
+
+RIPE Atlas probes can also be easily used through the [Hurricane Electric BGP Toolkit](https://bgp.he.net/). Using the [Traceroute functionality for AS16509](https://bgp.he.net/AS16509#_traceroute), you can select one of the above probes and perform a traceroute, ping or DNS lookup from them. 
+
+Here is an example output with a ping to ```8.8.8.8``` from probe 1000640 in Canada (West), ca-west-1: 
+
+<img src="../../raw/main/images/HE_TraceRoute.png">
+
 ## Disclaimer
 
 This is **not** an official AWS offering. Any data gathered is for informational purposes only and is **not** a guarantee of future performance!
