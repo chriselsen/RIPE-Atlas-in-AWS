@@ -5,10 +5,13 @@ sudo apt update -y
 export DEBIAN_FRONTEND=noninteractive
 sudo apt -y remove needrestart 
 sudo -E apt-get -o Dpkg::Options::="--force-confold" -o Dpkg::Options::="--force-confdef" dist-upgrade -q -y --allow-downgrades --allow-remove-essential --allow-change-held-packages
-sudo apt install git tar fakeroot libssl-dev libcap2-bin autoconf automake libtool build-essential -y --allow-downgrades --allow-remove-essential --allow-change-held-packages
+sudo apt install git build-essential debhelper libssl-dev autotools-dev -y --allow-downgrades --allow-remove-essential --allow-change-held-packages
 cd /tmp
 git clone --recursive https://github.com/RIPE-NCC/ripe-atlas-software-probe.git
-sudo ./ripe-atlas-software-probe/build-config/debian/bin/make-deb
+cd ripe-atlas-software-probe
+git submodule update
+dpkg-buildpackage -b -us -uc
+cp ../ripe-atlas-*.deb .
 sudo dpkg -i atlasswprobe-*.deb
 echo RXTXRPT=yes | sudo tee -a /var/atlas-probe/state/config.txt
 sudo service atlas restart
