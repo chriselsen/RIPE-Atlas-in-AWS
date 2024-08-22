@@ -6,6 +6,7 @@ export DEBIAN_FRONTEND=noninteractive
 sudo apt -y remove needrestart 
 sudo -E apt-get -o Dpkg::Options::="--force-confold" -o Dpkg::Options::="--force-confdef" dist-upgrade -q -y --allow-downgrades --allow-remove-essential --allow-change-held-packages
 sudo apt install git build-essential debhelper libssl-dev autotools-dev -y --allow-downgrades --allow-remove-essential --allow-change-held-packages
+sudo apt remove atlasswprobe -y
 cd /tmp
 git clone --recursive https://github.com/RIPE-NCC/ripe-atlas-software-probe.git
 cd ripe-atlas-software-probe
