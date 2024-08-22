@@ -12,8 +12,9 @@ cd ripe-atlas-software-probe
 git submodule update
 dpkg-buildpackage -b -us -uc
 cp ../ripe-atlas-*.deb .
-sudo dpkg -i atlasswprobe-*.deb
-echo RXTXRPT=yes | sudo tee -a /var/atlas-probe/state/config.txt
-sudo service atlas restart
+sudo dpkg -i ripe-atlas-common_????_amd64.deb ripe-atlas-probe_????_all.deb
+echo RXTXRPT=yes | sudo tee -a /etc/ripe-atlas/config.txt
+sudo systemctl enable ripe-atlas.service
+sudo systemctl start ripe-atlas.service
 sudo apt autoremove -y
-cat /var/atlas-probe/etc/probe_key.pub
+sudo cat /etc/ripe-atlas/probe_key.pub
