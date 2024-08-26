@@ -48,7 +48,7 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 | [1003383](https://atlas.ripe.net/probes/1003383/) |	16509 | 16509 | <img src="../../raw/main/images/flags/au.svg" width="25px"> Australia | Asia Pacific (Sydney) | ap-southeast-2	|
 | [1003371](https://atlas.ripe.net/probes/1003371/) |	16509 | 16509 | <img src="../../raw/main/images/flags/id.svg" width="25px"> Indonesia | Asia Pacific (Jakarta) | ap-southeast-3	|
 | [1005004](https://atlas.ripe.net/probes/1005004/) |	16509 | 16509 | <img src="../../raw/main/images/flags/au.svg" width="25px"> Australia | Asia Pacific (Melbourne) | ap-southeast-4	|
-|  |	16509 | 16509 | <img src="../../raw/main/images/flags/my.svg" width="25px"> Malaysia | Asia Pacific (Kuala Lumpur) | ap-southeast-5 |
+| [1005005](https://atlas.ripe.net/probes/1005005/) |	16509 | 16509 | <img src="../../raw/main/images/flags/my.svg" width="25px"> Malaysia | Asia Pacific (Kuala Lumpur) | ap-southeast-5 |
 |  |	16509 | 16509 | <img src="../../raw/main/images/flags/nz.svg" width="25px"> New Zealand | Asia Pacific (Auckland) | ap-southeast-6 |
 |  |	16509 | 16509 | <img src="../../raw/main/images/flags/th.svg" width="25px"> Thailand | Asia Pacific (Bangkok) | ap-southeast-7 |
 | [1003379](https://atlas.ripe.net/probes/1003379/) |	16509 | 16509 | <img src="../../raw/main/images/flags/in.svg" width="25px"> India | Asia Pacific (Mumbai) | ap-south-1	|
@@ -58,7 +58,7 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 For use in Probe Selection via "IDs List", when [creating a custom measurement](https://atlas.ripe.net/measurements/form/).
 
 ```
-1003385,1003386,1003387,1003388,1003389,1000640,1000709,1000566,1004986,1003374,1003376,1004991,1003378,1003377,1003375,1000644,1004673,1000708,1000707,1003384,1003381,1003380,1003372,1003382,1003383,1003371,1005004,1003379,1005020
+1003385,1003386,1003387,1003388,1003389,1000640,1000709,1000566,1004986,1003374,1003376,1004991,1003378,1003377,1003375,1000644,1004673,1000708,1000707,1003384,1003381,1003380,1003372,1003382,1003383,1003371,1005004,1005005,1003379,1005020
 ```
 
 
