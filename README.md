@@ -27,6 +27,7 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 | [1003388](https://atlas.ripe.net/probes/1003388/) |	16509 | 16509 | <img src="../../raw/main/images/flags/us.svg" width="25px"> USA | US West (Oregon) | us-west-2 |
 | [1003389](https://atlas.ripe.net/probes/1003389/) |	16509 | 16509 | <img src="../../raw/main/images/flags/ca.svg" width="25px"> Canada | Canada (Central) | ca-central-1 |
 | [1000640](https://atlas.ripe.net/probes/1000640/) |	16509 | 16509 | <img src="../../raw/main/images/flags/ca.svg" width="25px"> Canada | Canada (West) | ca-west-1 |
+|  |	16509 | 16509 | <img src="../../raw/main/images/flags/mx.svg" width="25px"> Mexico | AWS Mexico (Central) | mx-central-1 |
 | [1000709](https://atlas.ripe.net/probes/1000709/) |	16509 | 16509 | <img src="../../raw/main/images/flags/br.svg" width="25px"> Brazil | South America (São Paulo) | sa-east-1 |
 | [1000566](https://atlas.ripe.net/probes/1000566/) |	16509 | 16509 | <img src="../../raw/main/images/flags/de.svg" width="25px"> Germany | Europe (Frankfurt) | eu-central-1 |
 | [1004986](https://atlas.ripe.net/probes/1004986/) |	16509 | 16509 | <img src="../../raw/main/images/flags/ch.svg" width="25px"> Switzerland | Europe (Zurich) | eu-central-2 |
@@ -44,6 +45,7 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 | [1003381](https://atlas.ripe.net/probes/1003381/) |	16509 | 16509 | <img src="../../raw/main/images/flags/kr.svg" width="25px"> South Korea | Asia Pacific (Seoul) | ap-northeast-2	|
 | [1003380](https://atlas.ripe.net/probes/1003380/) |	16509 | 16509 | <img src="../../raw/main/images/flags/jp.svg" width="25px"> Japan | Asia Pacific (Osaka) | ap-northeast-3	|
 | [1003372](https://atlas.ripe.net/probes/1003372/) |	16509 | 16509 | <img src="../../raw/main/images/flags/hk.svg" width="25px"> Hong Kong | Asia Pacific (Hong Kong) | ap-east-1 |
+|  |	16509 | 16509 | <img src="../../raw/main/images/flags/tw.svg" width="25px"> Taiwan | Asia Pacific (Taipei) | ap-east-2 |
 | [1003382](https://atlas.ripe.net/probes/1003382/) |	16509 | 16509 | <img src="../../raw/main/images/flags/sg.svg" width="25px"> Singapore | Asia Pacific (Singapore) | ap-southeast-1	|
 | [1003383](https://atlas.ripe.net/probes/1003383/) |	16509 | 16509 | <img src="../../raw/main/images/flags/au.svg" width="25px"> Australia | Asia Pacific (Sydney) | ap-southeast-2	|
 | [1003371](https://atlas.ripe.net/probes/1003371/) |	16509 | 16509 | <img src="../../raw/main/images/flags/id.svg" width="25px"> Indonesia | Asia Pacific (Jakarta) | ap-southeast-3	|
