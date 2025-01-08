@@ -52,7 +52,7 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 | [1005004](https://atlas.ripe.net/probes/1005004/) |	16509 | 16509 | <img src="../../raw/main/images/flags/au.svg" width="25px"> Australia | Asia Pacific (Melbourne) | ap-southeast-4	|
 | [1005005](https://atlas.ripe.net/probes/1005005/) |	16509 | 16509 | <img src="../../raw/main/images/flags/my.svg" width="25px"> Malaysia | Asia Pacific (Kuala Lumpur) | ap-southeast-5 |
 |  |	16509 | 16509 | <img src="../../raw/main/images/flags/nz.svg" width="25px"> New Zealand | Asia Pacific (Auckland) | ap-southeast-6 |
-|  |	16509 | 16509 | <img src="../../raw/main/images/flags/th.svg" width="25px"> Thailand | Asia Pacific (Bangkok) | ap-southeast-7 |
+| [1004616](https://atlas.ripe.net/probes/1004616/) |	16509 | 16509 | <img src="../../raw/main/images/flags/th.svg" width="25px"> Thailand | Asia Pacific (Bangkok) | ap-southeast-7 |
 | [1003379](https://atlas.ripe.net/probes/1003379/) |	16509 | 16509 | <img src="../../raw/main/images/flags/in.svg" width="25px"> India | Asia Pacific (Mumbai) | ap-south-1	|
 | [1005020](https://atlas.ripe.net/probes/1005020/) |	16509 | 16509 | <img src="../../raw/main/images/flags/in.svg" width="25px"> India | Asia Pacific (Hyderabad) | ap-south-2	|
 
