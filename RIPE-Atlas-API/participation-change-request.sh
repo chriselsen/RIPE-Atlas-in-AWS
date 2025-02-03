@@ -9,4 +9,4 @@ value="1004598,1004605,1004606,1004607,1004614,1004608,1004609,1004615,1004619,1
 
 requested=`echo $value | tr -cd , | wc -c`
 change="[{\"action\":\""$action"\",\"requested\":"$((requested + 1))",\"type\":\"probes\",\"value\":\""$value"\"}]"
-curl -H "Content-Type: application/json" -H "Accept: application/json" -X POST -d $change https://atlas.ripe.net:443/api/v2/measurements/$mm_id/participation-requests/?key=$api_key
+curl -H "Content-Type: application/json" -H "Accept: application/json" -H "Authorization: Key "$api_key -X POST -d $change https://atlas.ripe.net:443/api/v2/measurements/$mm_id/participation-requests/
