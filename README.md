@@ -55,7 +55,7 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 | [1004616](https://atlas.ripe.net/probes/1004616/) |	16509 | 16509 | <img src="../../raw/main/images/flags/th.svg" width="25px"> Thailand | Asia Pacific (Bangkok) | ap-southeast-7 |
 | [1003379](https://atlas.ripe.net/probes/1003379/) |	16509 | 16509 | <img src="../../raw/main/images/flags/in.svg" width="25px"> India | Asia Pacific (Mumbai) | ap-south-1	|
 | [1005020](https://atlas.ripe.net/probes/1005020/) |	16509 | 16509 | <img src="../../raw/main/images/flags/in.svg" width="25px"> India | Asia Pacific (Hyderabad) | ap-south-2	|
-| [1004617](https://atlas.ripe.net/probes/1004617/) |	16509 | 16509 | <img src="../../raw/main/images/flags/eu.svg" width="25px"> EU (Germany) | AWS European Sovereign Cloud (Germany) | eusc-de-east-1	|
+| [1004617](https://atlas.ripe.net/probes/1004617/) |	16509 | 16509 | <img src="../../raw/main/images/flags/europeanunion.svg" width="25px"> EU (Germany) | AWS European Sovereign Cloud (Germany) | eusc-de-east-1	|
 
 #### Comma-separated list of IDs
 For use in Probe Selection via "IDs List", when [creating a custom measurement](https://atlas.ripe.net/measurements/form/).
