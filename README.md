@@ -55,12 +55,13 @@ Combined with the EC2 Reachability Test IP targets for [IPv4](http://ec2-reachab
 | [1004616](https://atlas.ripe.net/probes/1004616/) |	16509 | 16509 | <img src="../../raw/main/images/flags/th.svg" width="25px"> Thailand | Asia Pacific (Bangkok) | ap-southeast-7 |
 | [1003379](https://atlas.ripe.net/probes/1003379/) |	16509 | 16509 | <img src="../../raw/main/images/flags/in.svg" width="25px"> India | Asia Pacific (Mumbai) | ap-south-1	|
 | [1005020](https://atlas.ripe.net/probes/1005020/) |	16509 | 16509 | <img src="../../raw/main/images/flags/in.svg" width="25px"> India | Asia Pacific (Hyderabad) | ap-south-2	|
+| [1004617](https://atlas.ripe.net/probes/1004617/) |	16509 | 16509 | <img src="../../raw/main/images/flags/eu.svg" width="25px"> EU (Germany) | AWS European Sovereign Cloud (Germany) | eusc-de-east-1	|
 
 #### Comma-separated list of IDs
 For use in Probe Selection via "IDs List", when [creating a custom measurement](https://atlas.ripe.net/measurements/form/).
 
 ```
-1003385,1003386,1003387,1003388,1003389,1000640,1004598,1000709,1000566,1004986,1003374,1003376,1004991,1003378,1003377,1003375,1000644,1004673,1000708,1000707,1003384,1003381,1003380,1003372,1004618,1003382,1003383,1003371,1005004,1005005,1004614,1004616,1003379,1005020
+1003385,1003386,1003387,1003388,1003389,1000640,1004598,1000709,1000566,1004986,1003374,1003376,1004991,1003378,1003377,1003375,1000644,1004673,1000708,1000707,1003384,1003381,1003380,1003372,1004618,1003382,1003383,1003371,1005004,1005005,1004614,1004616,1003379,1005020,1004617
 ```
 
 
